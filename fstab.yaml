@@ -4,5 +4,5 @@
 # 2. Google Drive is no longer allowed for production Adobe projects.
 
 mountpoints:
-  /: https://adobe-my.sharepoint.com/my?id=%2Fpersonal%2Fjose_adobe_com%2FDocuments%2Fmilo%2Fmilocollege%2Fcollege
+  /: https://adobe-my.sharepoint.com/my?id=%2Fpersonal%2Fjose_adobe_com%2FDocuments%2Fmilo%2Fmilocollege
 
